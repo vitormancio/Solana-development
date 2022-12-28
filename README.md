@@ -1,2 +1,12 @@
 # Solana-development
-Bootcamps of Web3dev where i'm developer Full Stack, all projects i'm develop on Solana ecosystem 🔥
+
+Hello i'm Vitor a Brazzilian developer and crypto enthusiastic and below i gonna post all of i'm do realize this year whit WEB3DEV bootcamps projects whit Solana
+
+All projects i'm develop on Solana ecosystem 🔥 And i'm love much things of Solana ecosystem, example CLI
+
+**Some web3Apps need fixes**
+
+[Solana NFTS Project](https://solana-nf-ts-mint.vercel.app/)<br>
+[Solana Pay Store](https://solana-pay-store-kymxcvjjv-vitormancio.vercel.app/)<br>
+[Solana Dapp](https://portal-gif-vitordev.vercel.app/)
+
