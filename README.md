@@ -6,6 +6,10 @@ All projects i'm develop on Solana ecosystem 🔥 And i'm love much things of So
 
 All projects you can get de sample code and realize/improve on [WEB3DEV](https://bootcamp.web3dev.com.br/) bootcamp plataform 🤩 
 
+I'm ajust all breakchanges and improve somethings in the content of bootcamps of (WEB3DEV)[https://discord.com/invite/UXDUzG2hhE] in bootcamps lessons and i'm ❤️ this !
+
+Let's Build It 🚀 
+
 **Some web3Apps need fixes**
 
 [Solana NFTS Project](https://solana-nf-ts-mint.vercel.app/)<br>
