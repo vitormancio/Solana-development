@@ -10,7 +10,7 @@ I'm ajust all breakchanges and improve somethings in the content of bootcamps of
 
 Let's Build It 🚀 
 
-**Some web3Apps need fixes**
+** ⚠️ Some web3Apps need fixes**
 
 [Solana NFTS Project](https://solana-nf-ts-mint.vercel.app/)<br>
 [Solana Pay Store](https://solana-pay-store-kymxcvjjv-vitormancio.vercel.app/)<br>
